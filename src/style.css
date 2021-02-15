@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+*,
+*::after
+*::before{
+    box-sizing: border-box;
+    font-family:"Nova square",cursive;
+}
+/* Variables */
+:root{
+    background-color: rgb(29, 26, 26);
+    font-size: 62.5%;
+    font-family:"Nova square",cursive;
+}
